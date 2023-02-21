@@ -1,2 +1,2 @@
 # IMPORTANT NOTE
-This is a dedicated repository to solve FSO's exercises.
+This is a dedicated repository to solve all of the FSO's exercises.
