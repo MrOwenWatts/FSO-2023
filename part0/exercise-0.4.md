@@ -8,7 +8,7 @@ sequenceDiagram
     server ->> browser: URL redirect
     deactivate server
 
-    browswer ->> server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+    browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/notes
     activate server
     server ->> browser: HTML document
     deactivate server
